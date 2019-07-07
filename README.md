@@ -1,3 +1,3 @@
 # hello-world
-Repository for practicing GitHub. 
+Repository for practicing GitHub.   
 I've made my first change!
